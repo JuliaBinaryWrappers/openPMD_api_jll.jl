@@ -1,12 +1,13 @@
 name = "openPMD_api_jll"
 uuid = "0cbd5639-4ed4-5caa-9af9-db1a1b49a12d"
-version = "0.13.4+0"
+version = "0.14.0+0"
 
 [deps]
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
 ADIOS2_jll = "44b1415a-b224-5c99-9168-ff4febb5f37f"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
