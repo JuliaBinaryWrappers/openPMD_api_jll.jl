@@ -1,6 +1,6 @@
 name = "openPMD_api_jll"
 uuid = "0cbd5639-4ed4-5caa-9af9-db1a1b49a12d"
-version = "0.14.0+2"
+version = "0.14.1+0"
 
 [deps]
 MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
