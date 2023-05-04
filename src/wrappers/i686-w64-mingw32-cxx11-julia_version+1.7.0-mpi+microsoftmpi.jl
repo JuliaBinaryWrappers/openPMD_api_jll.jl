@@ -4,7 +4,6 @@ export libopenPMD, libopenPMD_jl
 using CompilerSupportLibraries_jll
 using libcxxwrap_julia_jll
 using MicrosoftMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("openPMD_api")
 JLLWrappers.@declare_library_product(libopenPMD, "libopenPMD.dll")
 JLLWrappers.@declare_library_product(libopenPMD_jl, "libopenPMD.jl.dll")
