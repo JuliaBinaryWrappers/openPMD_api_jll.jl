@@ -3,13 +3,14 @@ export libopenPMD, libopenPMD_jl
 
 using ADIOS2_jll
 using CompilerSupportLibraries_jll
+using HDF5_jll
 using libcxxwrap_julia_jll
 using OpenMPI_jll
 JLLWrappers.@generate_wrapper_header("openPMD_api")
 JLLWrappers.@declare_library_product(libopenPMD, "@rpath/libopenPMD.dylib")
 JLLWrappers.@declare_library_product(libopenPMD_jl, "@rpath/libopenPMD.jl.dylib")
 function __init__()
-    JLLWrappers.@generate_init_header(ADIOS2_jll, CompilerSupportLibraries_jll, libcxxwrap_julia_jll, OpenMPI_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(ADIOS2_jll, CompilerSupportLibraries_jll, HDF5_jll, libcxxwrap_julia_jll, OpenMPI_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libopenPMD,
         "lib/libopenPMD.dylib",

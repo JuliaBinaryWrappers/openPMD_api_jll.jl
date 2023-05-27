@@ -2,13 +2,14 @@
 export libopenPMD, libopenPMD_jl
 
 using CompilerSupportLibraries_jll
+using HDF5_jll
 using libcxxwrap_julia_jll
 using MPICH_jll
 JLLWrappers.@generate_wrapper_header("openPMD_api")
 JLLWrappers.@declare_library_product(libopenPMD, "libopenPMD.so")
 JLLWrappers.@declare_library_product(libopenPMD_jl, "libopenPMD.jl.so")
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, libcxxwrap_julia_jll, MPICH_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, HDF5_jll, libcxxwrap_julia_jll, MPICH_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libopenPMD,
         "lib/libopenPMD.so",
