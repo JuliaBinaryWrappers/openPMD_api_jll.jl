@@ -1,43 +1,73 @@
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "c542a4e100c3922cf7867121ba842309df363beb"
+git-tree-sha1 = "3ae03296db47b1c92a9b6fa5120ba8848d03a979"
 julia_version = "1.10.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "44919f06f255220b630bf4c8bfe4b33b7fbaea75cc109e0c15d5a8f038deb8f6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "e3960cc0f5fda560e7eff284373e060d4f405315c8ce8d3050bec93634eeb1b8"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "29e5d739788ea9fe832de6255c0068f0898fe69d"
+git-tree-sha1 = "046716c5697d42a4907538c5323734e8fe291468"
 julia_version = "1.10.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "cfdf66733840a339e64387beb722320c44958df5f7dc3604ef6bfc45b55d184f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "b54aab56da56d69dc19e973e44752ee0424c7c02cabb880f77fe81001dd834f2"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "2efecf2249ede1bbe47527d8e147f448ef6fbac9"
+git-tree-sha1 = "470c2f8eae94ca386104fc9ce2d6735ad854dffa"
 julia_version = "1.10.0"
 mpi = "openmpi"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "8165c0f9ab58408ba53f2587b5f058f01df6f45ae7595dd662c0b2fd937676de"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "f89af7c830f1742e76aacd02081e185c7a5b378843e201058616b00d431b156f"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.10.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "4a85f8d1b52df6da76750e009e64a0575ff65bff"
+git-tree-sha1 = "e82b8cd8902856b3cd3d40f5fec5f6189245898b"
+julia_version = "1.11.0"
+mpi = "mpich"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "66e5a71c4ee9475caac31af0d5b403eb532211fcfcfd5b9f539fcfdab7845e5d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+git-tree-sha1 = "922e57530c332d50d3d97a5c054a3312485174b7"
+julia_version = "1.11.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "7b341087be7f10107932405c7babdd128f3af368ae5f4380ddef17be329f011e"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+git-tree-sha1 = "fb76b760901b0820ece88f1c70c5be54e87b51b1"
+julia_version = "1.11.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "ce30047ef88fae214533d1673463eb9abbb34981c66bd7da7a038876f366eeee"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.11.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+git-tree-sha1 = "66bc8178a1191df61075456293e50317b6754a03"
 julia_version = "1.7.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "e34eea2e094625ba9e989ae217513123e31786138e2abb16a2c225c756fe24e9"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+mpich.tar.gz"
+    sha256 = "5a3cef1299cf7c1353f32c04accf40c6c3ae014d29fb4858edfbc9d257adaadb"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "a5084b811b40b68df2aebb574b4b469cd67d3eeb"
@@ -47,7 +77,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "81f6c0e49a910760d3c1dfaf03c612ed0c308b734cfbfe8f436642a46ecd3e98"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "eb3daf8ea3398d0fc02bba00a0ac192071f9b555"
@@ -57,17 +87,17 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "59d9d313f42f4a440740cbc28ec45608ffba642b75caa685859f444dfbf496f3"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "16667ffba29d6a85a95e5714c6bef97712481587"
+git-tree-sha1 = "ce96ce90c7e03e7d08012f842b8cb9588a879def"
 julia_version = "1.8.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "7d958a35ec550ba4347ee28701617d41e356b59a1530d85891e43fea866db868"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+mpich.tar.gz"
+    sha256 = "66fe97efde71287a66e6fd4a8d380ab061ca89f6f95857652f351e483220ee04"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "d33e72eba373603ad53690147fdf3c8035198625"
@@ -77,7 +107,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "2deb5e197e09e03ecc60506fb5d2d458ce69b9b89388982936123bdb75f37be7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "93653f16089e28001ede8410bdca146fb804567b"
@@ -87,17 +117,17 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "a22e6571fd45f5f8c543bcdde9843bfdd7aeca2a94e7c9ad9675ea3298a3f030"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
-git-tree-sha1 = "05db5732f87a81b1a7a6ec9b5ae7cc830559db13"
+git-tree-sha1 = "8d61014c2d355f9150a930a9ecd22d027a156179"
 julia_version = "1.9.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "982d1c2e315375ca8fa387ab35e79b30dbf6b38a75d3712af0de0beed79ebb31"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+mpich.tar.gz"
+    sha256 = "63d742c7875cc0f509c0a5377bcc2619e899ca6cae2779a1f49e6da0c68c5cbb"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "dfb6b70e9339e80e76a9b0f1cbc999842cd75817"
@@ -107,7 +137,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "7f49e2513f215f4a35914eec10d152480bb113067b61efc92e245150bb838b3f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 git-tree-sha1 = "c1425c757199182c7f7d8ba73c9935461f86bae5"
@@ -117,43 +147,79 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "7d1fc1ba6bf13a11252c88d2c928f2fdd16d14887e27739291c687706860f48f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-apple-darwin-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4be6cedd86fe27a673246d50ee0194285cc75b05"
+git-tree-sha1 = "ea07c6fb5e69014515dc4dbbf0a1e128cd809c61"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "64d6750b2c408d0aa1d252f280d5e902ca8417ed15874337f3cd5672ed0ac0ba"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "ad3738fb1b5d29b881bc9e756e117f68342adbb702c71eb0bc2829e44524ff38"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "329650e110ab0f5a09334e36370ed1482963e889"
+git-tree-sha1 = "2a1b3c332cbedb0d1d9fcdfce1aebb5b234120c9"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "cfdcf04421629cf0b13a1b661c45ea15fdc97183941301fed5c0f293dc232b10"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "aeb62fdac7f6ae488b6f2e6f739c3a81d048364417f91c63794125fc5c65ea38"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f83b9b86de05e29993a2669a18cbc617e317c447"
+git-tree-sha1 = "8cbe6f7238e844481fe03283dc064cb77db7d05b"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "aed5b4d83bf6229e789ce02473887ff2d3fed1e203fb7e776992c208dfdaf56c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "6d3872cbad98fc10ddcdafdcc2c45d378453fe54a84027fc14ac059f8ece93c1"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59fd026a34148d85558c1d8e494e2d0e24104c58"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "d8689fdff7de87c48f872dc0fc3ae50af89bb69cdc411c7d4f486641ad537578"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0082ea98fe810f14edb3d32c051bb667677b140f"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "eb93a40604d3219202c8dece0d61be11f3e75b4332de425a29cf0d8a31b318a3"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f0e7a7b5845eace15587f7bf5e085cdff7027520"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "dc156843c3577def0ba427070b2e67bfa15a82ad28016d26862b9a4efc384584"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -165,7 +231,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "804718db0c2a574af0bbab12e0c62a0d6e71bf7d76a7d7369e1f608bc850742e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -177,7 +243,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "9c784f77f4a8ea39e7446ee37abac77f6bef25b3980287618d097f0c73aeb799"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -189,7 +255,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fecab910f18a30ad6ed61fe1938a0b320a4170bc0840a0e62b0baba233cf6593"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -201,7 +267,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "19bf52a2856f7e80eac74eee78d75d482a94763d43a031bc0a776e454a90cf68"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -213,7 +279,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "6a50ca5178cf25f42d0dcb13836ca6bc5719b562955a8072a3e623df6f65be28"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -225,7 +291,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "516f1b3d6e2532325d0e641b22c505bc25bb331a45196f28c2bc874db42ae8f7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -237,7 +303,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "2044025fb804f6478c8456a496028b8216b8ef50932a7a3f4f6aa4fcf4d6e802"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -249,7 +315,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "9c34604afcc784c33aeb7e8f517f8107427e3c59e42261bf7e5fe72a96b71220"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -261,43 +327,79 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "418cffe06140d92145112527a16b61965ddb915727c4c4d74f8e5385ddb55027"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97cfa523ada79201056810eaaa707e14f4e76b77"
+git-tree-sha1 = "8f9b2a25e8539731ce22bbc2efa7d0807b48dda1"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "e67347ce6a135a84b66d232c978821d03958b2c4d7940c74e3a34022ee206d59"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "f3a3212fc7b306a218cb081332979ef4ddec5ee77fb6b0565b4fe4acfcb729d4"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4eeeddadfc4bbd18e51a8a8c3419f988ae992d00"
+git-tree-sha1 = "58acb7e06f6307a908844e980f22cb763dea1400"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "fb1a468f7b3153387eee15db8d8d6365da5927610b04fb3ba370aca0928381f7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "3fe92d7bca724487989fc5edb290a627430de4fbaefa35568d716fdaaf1f9837"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "61d4ee2a1be50690d0de5508e2d54ddf6a84578d"
+git-tree-sha1 = "1140f4f7deac92f25f28f55750971ab41ad3dc6f"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "09b95d6f7328b9a374cf8c7fcc46f8a588da73761a67843f79c7ab6e41b9fea7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "f0e13f4a2d3dee5a923ae335a3cb7881a9d25fcbad627025a1d04c00f6d77639"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "37905ce201ba31a8b8ff632e62afa7e2386e6271"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "2520531a1624b21630afc1c542fe7fbad72112f1838ab70aa87ee6a62249923b"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "16ed70a5709a9eccc70d7019f85c1253b812995a"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "cbca2ae9c89084d1fbbc0076417be5a214f008ba8403a466cfee26dc6d4748e9"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b7bb9737dc76b72be9ed5fb347029ca9063c4f60"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "7b3b1dbb4aaab8609a11d0dcd34644e64162e52130f3f9c7b910787b44d826e8"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -309,7 +411,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "a4702796bfe470f025183f974c184bafbbe9d74a4e4c63744e685168e25140f5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -321,7 +423,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "7755eb7fcc13ad8b8cb6db533bd977f2b3df159b2297592418f48b47d6b16396"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -333,7 +435,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "49698d54d8d7181d430512dd5b51c9a28d90447306736e163db1060ff7e1de8b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -345,7 +447,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "568e660463a6f6f37f521bc238e998b93abf7141fa6483232f9d6fcd0fa70ccb"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -357,7 +459,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "e31074f50d88724d32d5f3bdc11a9a0171f53c625e9abaee59462ea50c98aba4"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -369,7 +471,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8f4aa0be9dbcd63fa6c436684176250f037f34f50c84270bce8fb7cf7a1eeb1b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -381,7 +483,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "7d033010fcb49d7c73fd9bfaab8e3303718afd71b54dc16ea52eae0d52a17a77"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -393,7 +495,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "cc88d46e3df9aed251a6971696e80c460ac5162a99001d605d76391ade50d313"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -405,31 +507,55 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "67565858e6673a33de061e5c088d1cf0f34d74262bf87cbc2e47ff871254ac84"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d29371f7ec30f0c5fe33ae47c34054e436cb466c"
+git-tree-sha1 = "d7ccd11b61165841a0e4f398c4d8a58e503a2f1f"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "af709cee6331d8a2a3cc44f90afb90e9cca483b2b2e3f0a5ae4c66db944deb11"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "4ad659db536d35b0dcaedaf1357076588734a74e88f0bc241b082c8384e0672c"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88af7c982afe60946bd74e07cebc66f590c788c8"
+git-tree-sha1 = "c046629013231e55eef61028f101738d4d29b7ad"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "17435a255e616de4ba6d715df7b7e872ab2006348356953ce4fe7204c239a30d"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "7ed379b18c1521f55e366c7430ffcf2a243fc2f0bbb7abe615343d7c6b19b304"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c787eef2be621b3b46fbbfee37655af64063fcf4"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "ae18cb50315c255074c21c3928a4d40057e8082f65f1801c1cc7f3361a5389f6"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c19cc97787ad69a9589951b68e348d30c2b3b54f"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "b9038e01456e177c673d8dcb529955736c4553cef1d6660332b34afefb92ef6e"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -441,7 +567,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "ba56d04a4412ed7ead914a91e6fbd6af9444fbaef59073b841ef34471b63ed5e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -453,7 +579,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "31ca91ac5f771cd82e7ef3362618b7573ce8cdb1d0599b4d414ab336edd77397"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -465,7 +591,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "017bc337021dff7802c0886eb17f6f0e54dd92b9f30d5e3de00a792751dc5e83"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -477,7 +603,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "22e8fd056753bdf70ec9de34962c613729727ecfd8c34faf792b3a31165dc3e7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -489,7 +615,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1071f9a4bd4a5105d1724aac09f3653f0feb95207fcdeb864c22a18d5d059d85"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -501,31 +627,55 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "df51de99e0ef1cda68104cf0bb750e9737cf9a17b7d6773cdae244aa086ca91d"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "745f9143e083484bc7a547af7f7861056678c72e"
+git-tree-sha1 = "a2af85516b6f655e70be202d3cd51956c2c50f15"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "94152c260f8242c4ee2fb22cc87106f081185723449bcf6a1c51bd21ec1c28f0"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "4ff866810b96a729ee189436f4594f104ee36fcb81667042a42046660b183a08"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "904474e1cf95c406ce5ee25c2aab006861ec25b7"
+git-tree-sha1 = "01696e7c3e740437949e254650905a67d33f4b65"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "fecf9b6a4711f8212dfbea5a9a0b1c2015d235d7bd369828eb74e82a1e26f4f6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "3867dc7ff07e08da9ff2f44b12fda5e29f91728e2b8964809cf3543995b76f1f"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bbde1255d44014764b5cae902ba9302e75552c78"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "e0884a127c668b9d756d751cb840d28b985c0d925a86f16440c3cc5413045779"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2094d16e4da08f648871452ef6f1558169fbeb2c"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "a3e02acfb824a5462c1a2e4e96e05b2a2f41c0731499fa1bbd3e493efa896700"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -537,7 +687,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "d7c92dbd6e08bcfb8fdbb698479fdcefaf6f7868b514de8befad6f6347708bd8"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -549,7 +699,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f0006ed7972bf899fce426f686240fbe7e135a4af45a2e5cdbe45c2c7fc78cff"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -561,7 +711,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "edf63a62622478e3a81f8fbffc7516d40ee1351b1e6f0b7fa037b9f8465e6547"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -573,7 +723,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "bb312f4aa9ddaa62aa50cb30d8bedfb6b6cddaf982bc01286087813deecf77bb"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -585,7 +735,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8555fc9909581019440f6db5e2bc82e21fa874babb9b4ee233e6dfa391d3818c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -597,7 +747,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "5897ee6ca7a12bb8da633277d17e5eff75b30b28fbd553bdfed17b56dcb51b72"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.aarch64-linux-musl-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -610,7 +760,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "3982235041064dabadd59968422c0a76bb53f6050225f2db8b03300aa1dd37d0"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -623,7 +773,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "06f5914098404b3c8d82622a5caf99b9d3f3dd9aaaffcea67b9963f549dd59fa"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -636,7 +786,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "6ba35543b852547ee4c4f6403c87674b122075214cc9880a22f0542a0ddd63fa"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -649,7 +799,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "9a34068ab9767e3f2abc112f36b7c43e0dde828118de067b02a7c2807863ed15"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -662,7 +812,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1bba601f944443046065b27e160c3c1424dafb19745c25ef701cb6a419c133bd"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -675,7 +825,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "ce93bebeb29b1e613faded7f38847dbdb4529494db799a785d28dfaea7e543c6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -688,7 +838,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "60807c475ef7f34ba295d6025a1af5a43d50b8cd4161c95a4fb18359a1b4b363"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -701,7 +851,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "08af5ec28be019b4899b526da0459e1e6002eae66743bf080a5f3bf24a62780b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -714,7 +864,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "0f0acbd03686a5116c019d9e7830fe0ca6736a3e625397ac6a58dcc4001a1684"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -727,7 +877,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "a5854794225eddbbb4b89b584fa0c5eb52de9099024ebce55a65b19d25430ca6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -740,7 +890,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "bfa92fec87a7739557b573b17ff58e318cd26b19c1adc59833c50d74e5d9d61e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -753,7 +903,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "919dd28907caef78bd5f98aa82050ac93a7c1d3ed4fcb1eaab9fab74d345196c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -766,7 +916,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "bbfde4c755efe54b29294a4c86cf71983a86bae571b5e29866047d757a795a0c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -779,7 +929,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "a601f2e884c127494893fa5b1818d658441893c1d081256c4c3f686df2e44d8d"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -792,7 +942,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "86ee9e811ef813f6859900e9b68e7fe203a1343eb43d54950862ee7d1b8eda5b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -805,7 +955,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "42e3623b74e79210d225030feb6714c8e69037e76da1d4fe2278c1e111a46b5f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -818,7 +968,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "51ac9ee4c3f7e93279a625b154caeba21e05fea0e90b571006fdcccc89866b1a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -831,7 +981,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "373f5c042b8d90a9755a9701abee5dd0de25c7130b4699d9994ee6e82e677a91"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -844,7 +994,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "5ceeb116ef7b798b3849af8b78b2faa0eb32db9ca7aff8611abb8b3b59503867"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -857,7 +1007,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "235221b48d52a4d1bc94980e2d1bb7412c4f2e6c7a752ecb986343b5f23fd124"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -870,7 +1020,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "d2d26cea4af747535976fa0f28c6eb657a592687d8081f8867a8dc265106c640"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -883,7 +1033,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "57a875185014130176d151746cba16580d9c6d65d10d4b97648a865e2f5a2f11"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -896,7 +1046,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "14433de9c29efd99a03f11214651929e76cc04814631cfb3c13d0ed78f244680"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -909,7 +1059,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "b27229ef7aaed3f4a5924571954d651475fb76d1236971e47d689792d9d3f66c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -922,7 +1072,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "af7166956195ca9a57d66794d049d994bd07d3dd08fb71eb9a6b4ceb137e3b24"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -935,7 +1085,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f04ddda831a510cc83446432722438be14601c1b0a1f0e9a33ef2486de4e2c22"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -948,7 +1098,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "e78642ebc9bfcd26835072826e9205dbd0f9e04e0511f3c6ff0ddc0c18123be0"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -961,7 +1111,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8e87bf2b8a8915876c61bef47ce0effa5e2703048f32b77030f97b13adcee751"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -974,7 +1124,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "9310c4322610fd55dfcd459347e68055ed734eb7d1477a7c93f729927faa363b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -987,7 +1137,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fae84c0186243fa658c23eecf63c7ae43ffefca4d88a9d43ccfd701a9e1a7276"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1000,7 +1150,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "27d807b1c7572ee14d026c815f1ad90a53aa3e405175cb7084c7b63d35f96472"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1013,7 +1163,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "25538f77ae04d0a72572d32f54bf1dec75619c59b15bd16e043fcadd35d1ea1f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1026,7 +1176,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8599498787f9adf6bc0479fa8e848fc8d08e52adf177d9974eea21e0d81e9efc"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1039,7 +1189,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "84059fc3824af760c8a9707cea9db06456c99fe23285c1a8b085c4cfee3da62e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1052,7 +1202,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "b3174d95f02e59b6ae8cb6f05835edd7fd1c2b4f2cb4d5aee92fe0dd405a6fcd"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -1065,43 +1215,79 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "2c37240ec0a9c249bf9c426848d909180c6cba4c3afdf448cac8cef58bfbfd14"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef546c84a3e2625e6d8bfae729adf578cdeaa78b"
+git-tree-sha1 = "031fa88cfafe07391f00e56d19d5d8794cfa6703"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "542a1cc17c320c2220d042e18b328fd649ac8558b67236e6603698e67729d245"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "a78c95800e8a760e8655ec2e46d5fd42d513e012c2c02fb352823631d41e7b79"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce6b7cdb5a03829e75127ef252da382c21600807"
+git-tree-sha1 = "25763a47d6841c0b8093a8246c3e90f0d951a3e2"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "1802d7df693e0d066d9f671d17d679fded7db711b1b74d3241a69049a047fe0c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "3cedba5dda20c1ad851b55082b8e43c512e463b1ca1bb4f5d8300b6f20fbec2d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d04da531cfeab0c0f1f35feb653a9c07de996087"
+git-tree-sha1 = "fb1e507a2d5c10c485ebf79120fb4465a7e6d70f"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "b00272c977f288ae211722155639bdeee862fdd3feb34b8955f894df734936c6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "1fe4eff52f79731b919b1cb1d2287900cbc4f2ed79d98f05bdeff8e4555a6dd8"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "215d4df39ecb8e2929a101a4ea8dde928b942505"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "988d0553578e38ed77a755ca0a6d81bc901e6b7c3e44b28bb46c26bf2a672fdf"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43bec5bc33aac875188ceb347cec027f50728962"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "7a016d8235729a08adbb86ca6ffa4b465dedb0e632e57de551fb47e1b539f96d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80dee178c3161a196c5e412725b7666bf7c7deb5"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "583c05ef5f5240ba2f0a11c4be3071d86c2231b55b14e75f9639c96213cc011d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1113,7 +1299,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "0019942b930c355e803561fcbeb566f78ec4ccc92d0c94538a34fb6ca56da4a4"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1125,7 +1311,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fe0a8af82df58fd80f0e599366087c59c61c0e738c39915202920ce177d17860"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1137,7 +1323,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "b7e6d3c696fa0dbc7deaf428560bdcc2613b784c5d613fe961625eae45f57597"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1149,7 +1335,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "29ccce75c695462ad396e7e6f139c7994822d3c02e2b6cc9485abe975b73ae60"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1161,7 +1347,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "ba7c83ff684c5f5a07aa3d97e049203a73889543080099756ca7f4b6db79ac99"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1173,7 +1359,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "c6febfdd6c4f0450c8ca9e140c7637861de559c9fb7c37bc1d7a4665537a4144"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1185,7 +1371,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "20dd1bd79d72d7f55f0eee7d77006c689ed6cf9ae08d8b2d4d3ab91d8ae5c39f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1197,7 +1383,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "831b56ddc454b0caa68a19cfac83401f3c897e3faf09fb26afd1f41b7cd9946a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1209,43 +1395,79 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "bcee2d7c96518be429139f7da26c8e874f0e4f2acc9b6e50546364603f4bb0dc"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "23d76f747f330939d9c573770b8d5bc7060f5a71"
+git-tree-sha1 = "ef445d678ebbc0bba89585d9565cd38408a38585"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "8c8e7120569093c92637d205df19134fc38e8eb7e6e3e824af028eec7e764706"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "81f699a28cbb62c95676cbf0e03681c52eaaccebfeadb59b95b969a6793c0433"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "006af7b082892c3d70b964d678309cfa89c1b8e2"
+git-tree-sha1 = "2f514593a16d2059b8c3a7efe4e202af50d2b35b"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "322e4974387afad8c2d0b18a64d033aa671f6242cee0e4abd5d6bc03a8a397fc"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "4486de7725eda78ea41bafc23956853811aa62acf58f78820ec094ad86d14d6d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e89c25fa2277531f91b2f0205b89564c6de06ea4"
+git-tree-sha1 = "f8917fee92bbc5e5aec980899661e9402a86e2f1"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "711bcab61ad5098bf9227d3c37157367fe2319a50019a76a1cefdec2da2aa5ca"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "f5b1a019d2e5499d070070839922f9f40149e0bfb856d05bfb8c3b85ef836e33"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f52059a29380d8a7050b7503e4eec11096101c51"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "3c2f8f67bdf49bc43b2227e7da8bee8a7ceba4ee91090ce5191f316d331a3925"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ef5cc7ca277c3bd1dddaed2898a847b932ac5228"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "26a083e55deb8b172df4b3a82402eb550d1767498539b3d9be7112ec0c9a78e8"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "523640ef9c9fcefdf3aca8817696192311228fd5"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "d7527d482593a47e00a5ef548122dbdd547e023d99a04bdcf96e2ee489cfa040"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1257,7 +1479,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "7c248ebbed2aaa130380800cc6caaab8a4215e9bdf9434857ce8c9dbc59e47b5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1269,7 +1491,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "cbd4037e826328cdf9a10ca9ed87fdb28d99cf7bd1cea53de9ad5266acd35884"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1281,7 +1503,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fddf4e27ef7aaa3260e4c9b781b8ddfa062c22383892fb9f2b4a0e0095fb5ad7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1293,7 +1515,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "906536a83fc9be1fe5abdfbf0a2802b18f41d7a58f5a3a60128ea232ae4b5c90"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1305,7 +1527,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "409521a8377cc90602d4bd69c19508f93077faae696327c46f48ac8d0dc5afca"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1317,7 +1539,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f19d167f68efc6e8227b327ae5ef34228b5614f6a456285ff38d61fc6ef965ed"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1329,7 +1551,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "a7a751b1aa57f9338f4e900653302a662fb6c6b820d2b859929eb805af720cff"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1341,7 +1563,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "c2ca2e2ea87ffba0bd754e0ab1d5396ab011c515480df36daca804cacdc63ee6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1353,18 +1575,29 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f2af0d8e3317796d7d38097d0eaeb99a8cbdbe11a115d2f5b59b381c9a2ff147"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf4d658f2277a3191f22e1adc732a4627a0ba0ef"
+git-tree-sha1 = "0f6bb7e6f943a06647a49881d3ce648ff8c4040d"
 julia_version = "1.10.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[openPMD_api.download]]
-    sha256 = "6151a3f5636c22b4ce5aa65249f03cdb86d23bf018ae93e2ee7edffe69f617cd"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+    sha256 = "309051bbe961ac4e5edd058d76dd03dffdd81e99de4ec25320e24bb4abed31c9"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f6bb7e6f943a06647a49881d3ce648ff8c4040d"
+julia_version = "1.11.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[openPMD_api.download]]
+    sha256 = "309051bbe961ac4e5edd058d76dd03dffdd81e99de4ec25320e24bb4abed31c9"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.11.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1375,7 +1608,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "a506f9f3ee1adf432afdd5adb6a62a4d028f7ceb5b6afd9c55bdb646bcbcbe39"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1386,7 +1619,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "d99e6dec0cc7594c3ecee30b44ba653bf10e33a14eb8ca96eecb5a2ef315e9a5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -1397,18 +1630,29 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "6f7b917e787b2f174ab63b501e1e8655b1c94e3f72d2a3073ad3ebfd11e271ab"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx03-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "79d68a9d55a7b60af1378ede64a9d7e9ea847bcb"
+git-tree-sha1 = "55fe7c2f8f72b8c0cac9c736e3c070840667aac2"
 julia_version = "1.10.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[openPMD_api.download]]
-    sha256 = "3d4a15a69170f762afbccbb4226421056dd3a6d3e692e109065c5aadc8e25306"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+    sha256 = "92918cde4c48ec7271d30e8fdb15fcfd37be9ece4adb64098af784c9a3a10b53"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+[[openPMD_api]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55fe7c2f8f72b8c0cac9c736e3c070840667aac2"
+julia_version = "1.11.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[openPMD_api.download]]
+    sha256 = "92918cde4c48ec7271d30e8fdb15fcfd37be9ece4adb64098af784c9a3a10b53"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.11.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1419,7 +1663,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "e0fbf983f511771d4c33faa73d846bfab8d63047c4dfdae32197f5945c2c33b6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1430,7 +1674,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "3f8a73998503d390411da3475a935511928e3a2f7bd617a26f848234f64e90c3"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -1441,43 +1685,79 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "0bbbd562e52158749a944bcc8e46b99851461c0c8c60fa01513d3a7a7f0c05cf"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.i686-w64-mingw32-cxx11-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bad4bec4a9ad7d9d587f7226df05d873a6660e3b"
+git-tree-sha1 = "9369113e0e15d61f17e86100e2db568e16a60cc1"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "031962928c5f7de7d6f303f7be60d72e9516d79fa1c1c1faec3dde7f77d2a499"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "5f6950b2a0a5477746b8f92bd623ea8b82da9963a9a739101407ed8f3ec51573"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de0d81ea2e7993cd4356238b4dbfd18dbb54353b"
+git-tree-sha1 = "635ce1d173078d337a2606f20df20ba7ea0da104"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "0897b3037fd3f6d3efa5c2ab4d70b68eda5e2f8f14b6afa8cf217b6f7bffc4b9"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "933b19119f07503e0b9ec2cc7f8a862fbca8c6d50dcd98e747bf7fb644bfebe2"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "33835316a189a57000bed39990ec7d4e652c99a3"
+git-tree-sha1 = "6c1013f2825e3f4a800ea841ca9021c998af18ea"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "a6516c6cc0709796bc626f44c91bba1b8aabfe100f202148d25e3bb3b2f4a87c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "5328736a15b93e1b81c1f82d4fce23147859359cf2c760f03adae37e9b262694"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5d7219dd66bc65631b3890c774b7c0a8a0e8ffd"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "df98154ffba4f7db8656222290ed923f067befb4537dcb3c68ab5d4961c84f5c"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3321a6b1d3043fbcb4bb43452219c2624b319375"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "ef0dc500189970e082817dafd2ce2779ec1427babdc3c23d2a5db9c29ce77068"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "02e3808bed9648820f31a0bc2bb10ba420626c91"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "541ec2fa43ad6a22daad96836fe822e9e100053a5f8a14e5762876166b9fe910"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1489,7 +1769,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "72a8aec11bcc978d14840bddafe45865b446bda57c77990ed0cf561e08bf1d8e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1501,7 +1781,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fb2199df2bdeff440c0cc6414d1bf27a056c03372f957739313dcdfd70ed40d5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1513,7 +1793,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "2571ef3a89e1727762b62455f3c4a99e61dd048ad91447065f16390a364067f7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1525,7 +1805,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "ee335fb19e36a7a3be338be3c5c99836137d15a8b39a43fe5a299a65b98187b5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1537,7 +1817,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "4e883d1b1393b0149c5c53e5cede05c3edc7a4edde6b0a6ba5f6173a2e456340"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1549,7 +1829,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "910b2f5df9611a474f712016ca8871130edc4bd2f91d0da8d7bb68a2a62bf416"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1561,7 +1841,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "6be24571cba28aa2be9c1210f0d93aeb1f17f2016a60bc55cc76c5134fce6020"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1573,7 +1853,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "c877a9535d74fa9a68d7b71c22364ba178f619e2a4eaf7ebdacd95a0b0ae0f3c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -1585,43 +1865,79 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "d672a16d0cc05def6ea34058b44ef6e6bba95fa60cd12df8b8f46bd80eb36551"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6e29821136054ac98661d36d18a98e17b096d07"
+git-tree-sha1 = "0d2391aa598acd092c4eff26b23fec8d6142deed"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "b0cca98e9c8fb788b5aed430ebc54c307e2cf0972d3f27139ddab908ff81eb07"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "4b92f99fb4cde2ee77c622a1f70a8c6b8e350411a86ae5f9674637f922abd297"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ef6dae1fda7427b7dd836ab54b18351718a7129"
+git-tree-sha1 = "da97aa7535ef7724e3fe3059e81ba065b9b9bdde"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "8c55cc4577355d929631038e513698239075902a531a155a0341f87b5c1451ea"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "772661808096d1c235ea3ef0eaf13f66d2be39167faca6a72d8516b833b9cc16"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1cf63e9a0d5d80a1976a8f8b6c8ee0f0ed1fde2f"
+git-tree-sha1 = "241af1113d216b8a34fd59faf4099be3b5e5992a"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "a2d2de3069dd01cd89efb590da9ef8c56a151eb3e2a79e8224a04edf86ecd09a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "4279c0766305c9d58a653b40d0ba1a42902a29b184bd191ca49fe478a9277c5b"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31ceb5bf077ef628410646b6d74311fba71de2b3"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "dbf1685943e2e53286111907e392ec29e620b64314c116b104cc7232d37ab608"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "63747de49ee4e28c03cdfc2cef6fbfd604e0c37d"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "4ce314c45b7df7215f445adfe9ceffc3673a689ace958d6f3534984efd08ac8d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5a1432c2097d8b6021e37d355585ae3bcad6944a"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "ef25214f0385db2da15b0c8dbbefd450bbf01709925737c1e63cf8b6d3c75343"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1633,7 +1949,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "28f60843105b4ce6cac2468a1997fa8b44e58c86edbf9705ac2c735cfcdf648f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1645,7 +1961,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "008cfb0543ac8f9d5c1067651f2da72d4cf26bccdabe7e220ce541862d0527ec"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1657,7 +1973,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "baf054fff521ababcc932f1b536fdab274835249ada36cce62c95ed35dba7c7c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1669,7 +1985,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "7417cd1c9d080ac16dad2734c71ce52e37a61dc350e56a90e5ebfd0c3df60927"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1681,7 +1997,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1cac2b020d2aceb1df910c30db3a807d425cdba274d601c593236b5e973f1aaa"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1693,7 +2009,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "b831f013234ce390e27944c2d07a2e85006aa03717c527aee45de0162ad133a4"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1705,7 +2021,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "73d72bca3d1ec67c55667e095cdf456c58b9d7501263171ac1e938e8e0d11a9e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1717,7 +2033,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fd08d481498567786687283ec63a1926ba24440027f994dad9b88994709c4bc3"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -1729,47 +2045,77 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "c880086831b9c636b4a9cde048eaf2ec79daf5bb853caa578457d5807279f7af"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "e2c47344d50c13190b4277b700f8220321f90d20"
+git-tree-sha1 = "ed2d41662dc0422fed1515f7ffc03a9b32d4b05e"
 julia_version = "1.10.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "86d6f862d8e70f18c5a071c21b6b555f31821b830af4732290c7775b05824475"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "9e60789f7273436d8fef05af2ac10a22ea6c89dbcd76383d473f7fc70da5923e"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "504c1b61c7e33129f8f3d13386f107ca3095f07a"
+git-tree-sha1 = "53821d1826df4a5b96d0bf456ac3a6062eb5cbbb"
 julia_version = "1.10.0"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "59d38b3cd7f153026b6f938b24b4249d1d76a3090c5d89f7d3ef3d5cc61d084b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "4b76401bb4a3bf341dfa87806de2877f788f8307e9c232882c532b7f1b854e24"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "967beedca4a9c7302f4ce1c4fc22e93a171eb947"
+git-tree-sha1 = "bca0842d583460e954c1578e4141e039c222275c"
 julia_version = "1.10.0"
 mpi = "openmpi"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "f4d06188076c145e35abd822bc8de7bc39c888f65164ee157fca64c9f1cfdc7b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "9c488d79519670ed5397e303acd7fe3191bc7f5cb42759924ec04f59e8c8f03d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.10.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "0c450a65f2270ffd2787f725340058fc4ecbea0d"
+git-tree-sha1 = "729e8f103e3b35d26e9d21c1405ad9b8a274bd8d"
+julia_version = "1.11.0"
+mpi = "mpich"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "46d1b4928c16e94b5442c2fe37f431f987b0818a4117d1dc90a1967d2d62bfeb"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "6aed455531f60a08b8b4f4c329638f71819ffe76"
+julia_version = "1.11.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "bdeca0fd2cd18cc35b91409f552a33d3e2a376ce5a1a4a637ac397e44bcea742"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "0ad5fa86e807878e086066884ff24e9e5c787cac"
+julia_version = "1.11.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[openPMD_api.download]]
+    sha256 = "03a1e1952e4836c8be0b039ac9416ec17deaf6c512c417b3341a64421e6353fb"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.11.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "e1974df8c7814956492f44c386bad1b8fd46b571"
 julia_version = "1.7.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "66cc60402c818676cb2ea4134ad2024bdd4a5e8c478172758b1db6d909398da3"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+mpich.tar.gz"
+    sha256 = "01ccdf10b99fcea53396c2c5190759a1db6e834b4974017b6df38337152feb54"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "768fa0ea7847542d9c3dcfa069046a5f193dc90a"
@@ -1779,7 +2125,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "c0ecfb950cdd49529c06556ea06b420094223bede1df01eb9acad4110cd7b3c2"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "8bec5ae8c01739920921152adc4c71526283a604"
@@ -1789,17 +2135,17 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "77ed10497e1a3f717395e583a9fbf0387904ebcb28db93737df2a70028af9b8f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "53d5e51ad658c32ccc607f09fdacae6636fdb921"
+git-tree-sha1 = "45e2412bc66b1865b08d27aa8f77319f2743c98a"
 julia_version = "1.8.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "d880cd6e452b27bb40542cde046ac5c283566990e31aefaff98b17fddec7f86a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+mpich.tar.gz"
+    sha256 = "43ee1781db1ab896668285e858fc7f6250d0d2cd3a43ad2650bdfed1e8fd8d6f"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "608ed31525836dbe2d34f2b12b165b55757895ac"
@@ -1809,7 +2155,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "b81f3965873d01a274539828e8367cdc9505e2f4969fb3239aa4df09d0f8084e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "a34b36542bb02221e46e128086c23d76702d2831"
@@ -1819,17 +2165,17 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "781f0061c78580e9ee5fd5d5ea3304f9fc4f9a9079fc234ae19b4dadc7d0321e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "005ac1e38ebd3602c8dfab498f303331246b1431"
+git-tree-sha1 = "e51f5808c9c394f151366f140bf49a9725a4c6fb"
 julia_version = "1.9.0"
 mpi = "mpich"
 os = "macos"
 
     [[openPMD_api.download]]
-    sha256 = "679528e1be13477969a547f20508e2774004e6bbb62ed5cf979108a04ae7c418"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+mpich.tar.gz"
+    sha256 = "b990199e7f60f6b8e51138d4eb4517915d1a391a40bce9c3fd19eb0f7b63be4f"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "b19afdaecb2a80e2bd19690796271a6569e63341"
@@ -1839,7 +2185,7 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "8e2a6538d501f9d53396be1ca15952406aba9c5f00f291a2bfc8bb60bc5d10f2"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 git-tree-sha1 = "3b8bb3f95ed47a1f699551725e3d3590790ec23a"
@@ -1849,43 +2195,79 @@ os = "macos"
 
     [[openPMD_api.download]]
     sha256 = "ae56a8550cc2fd534b32a00fd5cbacacc589a5e34c2723bdbfd852467725ee3c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-apple-darwin-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0489f184f13a1736ab409300e42e18c0246774ed"
+git-tree-sha1 = "1f1a25112ecd3d328d5a5fd4cc975a03a04829d1"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "7abbb56c9e5805b72cc36191c46a52a49e68a1a4b05c7a601ec07737012f9cf8"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "68ab9353e4ec80b9ae3b2651517f9b7556523642625968dc804f245c7957ca7a"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "db59fa6823466cab19091e170bd329a4f7e5baa0"
+git-tree-sha1 = "7be9fca4d3523701f98886ee45e4527b552f9ccc"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "c791be52cac6bd4e7dfc6e0f8f67562e1e1f7d0e1f66b4c2a883f9eabc756f1b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "e2e0dae8009232fd3d4ed8fbddae635aeccb90e624c1b0a015496f27326cd2f7"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3bef5280463e340db22816b79e348427889ee509"
+git-tree-sha1 = "0d5e51f503a22bbf152671ebe28602e49ec670f4"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "7d6e1ffc2a390a8859170db872ba28359602053ff148be34300c1f44e791e54d"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "8e22458f0345bef8c1efbe80cdee06f0aeed44e38fc2ebe4dba1e1e7c5c4367c"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c1c5f9ca57e903ac9752aac06fbb1cacbe7f2183"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "28d3f4fcf6f7cb0926e759357e2791a12fb40022550d6a099d03bda819705d59"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21e1772322472634ab74a52984e463a1fa42383c"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "f8d54d778dc0f78dff9bf0f5c5e8d802e2058726fe569ec239e93ee053ca1746"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d9d8c6c4fce09e09b49dcc72c9ae8a592cf8a15"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "9d30e5657979e700b11bc8591c48982daac3b23fe6d6fa1aa3117c7b2a9efda7"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1897,7 +2279,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "c4eeb4f6b8469501db37d115d911bcbddaff41ea1ba5da2a0fc495fe43d70620"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1909,7 +2291,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "bd2b6b37969b15720cfbf663984d51eae06ba7396e9a10cb05bc84d14c851c5b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1921,7 +2303,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8b6a44e2e438b66951adccfa6a4a1b3d65b3532f5786ffce5ed1eceb2744445e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1933,7 +2315,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "135789872116afa68341b716a66217e364029697825b97b0f9f59c41125ac28a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1945,7 +2327,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "0ec38e52b09692bf0b4c3bc3fe883377920e2cdb50611199131a3b8aa2838d07"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1957,7 +2339,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f1f8b565e1c2817ee6d1afbd241558a4e1412920645efb586ba3777f33db95e9"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1969,7 +2351,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "5cd0d1c8c0e89c4a36a0e35dfd649ea0ea4fb0d23ff6b6de128d8d83a5f02a8e"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1981,7 +2363,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1a1343edb114d50dabe4b6a2eafab5a8401935376a8e8f6e73af8385d2f522fe"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -1993,43 +2375,79 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1664376fd2079181cb4fa45e4be9d42570923f1750148915d417d7c15f2014c5"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b6942271f3e9f7eded60780eea4fbbc98dee8ec"
+git-tree-sha1 = "070fc9b8dddf5385801e7d4a207f7fe89283f2e3"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "3747778999c8b7a373f573b357cf19a5e96c127c4c8bea8f9992547aa883917c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "48c269929b70c8cac6a463f33673be511b67d6418173bf3603fee033bd5085cc"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "778c051217d1603983a1a2b30b22736959e176c8"
+git-tree-sha1 = "db8f28e27f0eeb101bc4152847514d97874ec2ea"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "578f26725c39a01fb87064e60e3196beddfc3f15433e7f19b41d0a01954da230"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
+    sha256 = "6d5bc2a36e42d647c74bc1d5ab5ba435a100d36ca8eacb1f50a2c3183d67fc6d"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "34dc682b3d15d464facd8119310cc434f9ece5b7"
+git-tree-sha1 = "0763180daccb8bbb1617025a34ed74bb426e5d9e"
 julia_version = "1.10.0"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "b43c4ef9864765f4c24d4f9f459b59a16b076abaf2a4308db971ad0d86d3b232"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "0fd98f7c30a22f04f934b1f85edc2eb42fd299020a5f13101cba696b4916b6d0"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84bcfd83da8ced668bb60f8e285100d7b6b41a48"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "905b7ca73419fda4b90c053c58ee4867bbc4255fbe09714ac3d6c24e0c184ebe"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fb99607ebd8e610154563a20dec4fc6462dba00f"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "af851d6236aaee1cef5d05e848e6c39f1d34bb8bc5a24200c21c81349bc76e04"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0-mpi+mpitrampoline.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "006dcec1db2ec147390b8cd99ed07f74ada95566"
+julia_version = "1.11.0"
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "43414965b80ca30faef7de24467cbd2fa3009f48fae93b98564d9e0886b8bfb4"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2041,7 +2459,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "8be9e59846d1a8e4086dee0e1bdc6e7bdc879313f4337880857861a036e36c40"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2053,7 +2471,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "36e8915b61dbf50c2256812b637aa17f4e934978b4a296b7e7fe966fe99566e9"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2065,7 +2483,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "40056f83c9d438f89590abbba71ce689c5ff6986aa5f09ce44fe6f52842c2843"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2077,7 +2495,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "de05c195bb36929a832711e3dbc834983fc9e672a94a54981bd3b1bb1fe06964"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2089,7 +2507,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "814fcc15386d0ce1ce7fb614672a4ea6d8171d8e8838e18f87a23d21200043f7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2101,7 +2519,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "6be34afd624d1031e3fbe30edf4006fcabf0f27e31947a188cf111e1f8632e08"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2113,7 +2531,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "5685c9984aa4ea3591b74a1a6a21920c89336ddb78f84a13b76e0f6e0e55c096"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2125,7 +2543,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "7adaec173a96a2fb20c856ca1d963bb0e2388d2289f9635f4819e602909dadcd"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+mpitrampoline.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2137,31 +2555,55 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "083a6c8a354dd23281ac8c0c8ba9871bda1b1046ae6bc9445dbe932a5c27aa33"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7aba06320e1cc325a3597e756fccc912ecef1578"
+git-tree-sha1 = "063856d5837602e1ba7bf72a1c7305ec294118b6"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "cb20e6e815498cb35b917399b0ffd879bc719270fe9f0d99c20915b706b0cb2f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "ef383e160d0e7412315e33486df90144c4d6cf985062c92e3b6fda4df35f0eee"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1f0670e511ad5d7c415431a3c809179c77167e9"
+git-tree-sha1 = "2260de5d1620dec3c5cf734edaa8b5a0774667bd"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "86ca100390730dc2452bbdf7fb2e3e1fe7259597ff805f3da581f101b033f34b"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "0d4b34b8abfa68d0dda916829c876f4cfe042ca1663b53dc04cd6bd9f266e82a"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dbf090fd38af398421d6cdba67f1c196d3b84f7b"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "826adf9da2d713c66a44cca1045dce5c235503f9314322675abf07e43a12e237"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f91430d75242e24097840f0635f3f4d6f80b661"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "dc88dd21ecda0fdc7f4217f54de97d7203ba29b19cbdf081a8b8ed9e14fdc7af"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2173,7 +2615,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fe5e864b5bab1302e18b3f37c84a2cc96aece6e99c170be85f17eaf0695c1874"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2185,7 +2627,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "833a57621ffcb1e336a253adc720ebb551e3cd09610f3fa0279eff4f32b22623"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2197,7 +2639,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "0d9c036dc872d6570342390ca69edce519d9c307c7b696981e187c555cb250ad"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2209,7 +2651,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "9f81ddb28ceccd83b5152c410df365d9f7710055f5a1df7405ec8b51d66d42e2"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2221,7 +2663,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "5a3c98adfce32dcbabfe9b04461f7df526441fdaceca3634e04e2c9404bcc8e6"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2233,31 +2675,55 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "e24555a32380b8a4e9b4b8cb4a8aa460c094eadd60a99249c5b87bbb27c4faab"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx03-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38a34b67864a4f94096cb4dfccdddafdcd536939"
+git-tree-sha1 = "ee33671ff01d1a25fef9a87be3a7ecf7da47ae4a"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "c6e48fd6eea413c21cc31c8c94ec016ac75d2b841d8134139ae3dbe690b039d2"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "994b5307ed834aaedca299382adcf48efffb88c62cfed4aeb5beb1a0473920c8"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bcc7344ee0e6f0fa811223356f2492f51eac1586"
+git-tree-sha1 = "f447efd3aa64c00ba16cb046b6ad83178ab5acb5"
 julia_version = "1.10.0"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[openPMD_api.download]]
-    sha256 = "53704735a0ebb3cb769ec351cf21d8601e7b3c3b0cf3cfbade6a37ff2bb70b22"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "ada61ed939653a881e9ab74d50439b9515254712b6206dc3b48203180979e928"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.10.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "93febae1c6563bd4b1c2c538d2db0fb0ff70613c"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "4014113219ba9156d06204d909a8e692aef63d37366ee8b4ea9ed2c2c3803769"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "666327f60628affbf9f316c0a56ff17fb03b0be4"
+julia_version = "1.11.0"
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[openPMD_api.download]]
+    sha256 = "c6a558c441b1dd7d9d902d0e6c39cbcd7779b7359f53f7e9eefa6cf49e19888e"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.11.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2269,7 +2735,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "2101f7d9d5a1719d37aaa3099d7f39129cbffeb9e2d2d91b32f271c4e1f57996"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2281,7 +2747,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "cb96f40225cb240c9ed1e4d56b7cbd38cbbb7bae85b5ddc53488eb23076056be"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2293,7 +2759,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "2a683eb88c572165539c57afb143e815081c351710a7862af44824f13da5fe09"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2305,7 +2771,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "fa1d5fb20df934f9a11e74b6816d182aaddac7347a692cfc7cd8d8d2a49cec39"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2317,7 +2783,7 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "f5f2188f19f92dc729a51c35e6e9cc91aed44698e9e116ac5bed700bd29b339d"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2329,98 +2795,129 @@ os = "linux"
 
     [[openPMD_api.download]]
     sha256 = "1f6c3f85f6533107b48043c4ed5a98fff2e967e178dadb2654ba3333d53da13f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-linux-musl-cxx11-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "2892349ce2609c5c4a136fddc9b9ad29d3bb71c4"
+git-tree-sha1 = "067e35f9c9180faf5998295f418ae3ead1c3feed"
 julia_version = "1.10.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "f3efb05fd5dee8c888f20295c5a1cc65e014d8696d2077491fbb265ace25b2d1"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.10.0-mpi+mpich.tar.gz"
+    sha256 = "5cce858bccb66002bbc27e6120cf68b5c6045552619564c3574b8f3bb13ee379"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.10.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "e069f7d0953aaf737f490b996f4ed43d2ebeac60"
+git-tree-sha1 = "bbf3b7138dd7e1f7f6408a3e31561e644411ad2d"
 julia_version = "1.10.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "793e1d733743ac813274bf532426e4bb550f699e52c2f6c42628de5b279aa17a"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.10.0-mpi+openmpi.tar.gz"
+    sha256 = "ba0584831a614a7b28dae760eedf183ad6cde28c7fd86cea98d7cb730e51710c"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.10.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "ea1f5e592511df2e599a1d54b1af136003a1041e"
+git-tree-sha1 = "6f1709b995178b51d4981f0d0a1e1a54ce73e651"
+julia_version = "1.11.0"
+mpi = "mpich"
+os = "freebsd"
+
+    [[openPMD_api.download]]
+    sha256 = "86175d69d557b76a2623c944eda4286265fd288e9af1f759fda57fe8fe8901d5"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.11.0-mpi+mpich.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "c627e5b7de7e67a76abf41b4ec5ee134d8437d14"
+julia_version = "1.11.0"
+mpi = "openmpi"
+os = "freebsd"
+
+    [[openPMD_api.download]]
+    sha256 = "8b7a569b41ce6372be7c83a55ffd47ad5d71e16525b4a2893d30d3754492d0c0"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.11.0-mpi+openmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+git-tree-sha1 = "526510546dc2a1fe33a2b143361edc027ff20c5d"
 julia_version = "1.7.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "6c5c3e0e666adf947f5a506a071bf1818738e761578682c2b70d7fcdb65453dc"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.7.0-mpi+mpich.tar.gz"
+    sha256 = "0dfd43f9deeb96bad9a666fae9afbe879d098b470bc1c67147281fdefb455c49"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.7.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "f7aa3e93924045269d4bb7a3f9874fbc4bb33216"
+git-tree-sha1 = "780d2d64c23f41d2ebe3f3147d3fb5c115c7ec76"
 julia_version = "1.7.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "d611f5034411f31aa8b4ac3108430a729e6fba2e1be11364e99e8ae9cb66a589"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.7.0-mpi+openmpi.tar.gz"
+    sha256 = "f7f23072e08d62cad75d6c4d47b7f1e2afe0cbc43e1a2b4ea9d61f03e62c8261"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.7.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "6fa447269707110c5d43f52ab42ef38e0d61a55e"
+git-tree-sha1 = "308b975150c09d12bc74a7c318f4d3b30d530702"
 julia_version = "1.8.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "a0235118c86d3c959048199e7631b27aa80d1f3d7d1afaa76230fc79dfde4040"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.8.0-mpi+mpich.tar.gz"
+    sha256 = "98f59f33fa9e4bff6d886a6abcd0d0c858df53423870abcad3a852840973a8c3"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.8.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "94a2dec092f2c725d7750c33c2fb80ce8474a25c"
+git-tree-sha1 = "79be3909bcfd42d673a28545308f8e5dcee7b2c3"
 julia_version = "1.8.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "1fb28e589ec730f0ae1963fb468070bf47cd5b06a4883f1dd33540f326db528c"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.8.0-mpi+openmpi.tar.gz"
+    sha256 = "ee0c975efab587ef07aa858c2b504c78f7a96c0abe97e181a2a6fc68d3b647f4"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.8.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "5e3ef4937e8bc54a23560d045e0319e67fe125cd"
+git-tree-sha1 = "c8d519f3f758edc57262c52ad51cfa3c484a848d"
 julia_version = "1.9.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "014e32ec14332ee11bc795c7626709df535e0999302387f89055a345702e50bb"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.9.0-mpi+mpich.tar.gz"
+    sha256 = "27a05459b68d199a6971fc8ac91f6c8758dcf282ad65da675587ae70dbaaaf38"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.9.0-mpi+mpich.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
-git-tree-sha1 = "9a51f2da56aeaa6238e058c3f551be14caae8552"
+git-tree-sha1 = "1e6af74e166c72e24ee955d53db65458abb7d992"
 julia_version = "1.9.0"
 mpi = "openmpi"
 os = "freebsd"
 
     [[openPMD_api.download]]
-    sha256 = "498ae9dfa66f96ffda869d15a843da26cebea5b73465a367e784d741424e96d4"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.9.0-mpi+openmpi.tar.gz"
+    sha256 = "dc99f0abf6d9bd9c5de8786c9928b2c36d7691ff2b4623178d835d164a4c5fc0"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-unknown-freebsd-julia_version+1.9.0-mpi+openmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fe85983c8de9a1f881a55abe9a9a240353de3236"
+git-tree-sha1 = "b53176061a2b0172932f01d9cbed08cec4566b38"
 julia_version = "1.10.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[openPMD_api.download]]
-    sha256 = "5a8204e52af97a3c4eebdfe09e9b990a7a2fd5b883b0aa2f07068367da83d7d3"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+    sha256 = "5fd29bcb39bac7b2c21f5190514e55b465053c9fb25adec819475bc4b1225762"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b53176061a2b0172932f01d9cbed08cec4566b38"
+julia_version = "1.11.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[openPMD_api.download]]
+    sha256 = "5fd29bcb39bac7b2c21f5190514e55b465053c9fb25adec819475bc4b1225762"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2431,7 +2928,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "70ddaf41ff004bf9b261527c9b3e3b0d31f8098f18ae649247b2b59d40dd7058"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2442,7 +2939,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "dd149c44da8d84598cfa3709b9e9c27725f80f1fd1aaf835e292514efebfa0d4"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -2453,18 +2950,29 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "ac52a2c6df270233120bfa8530918a9024597bcbccbceeafc3de50bdb236195f"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "442d4630a29bbd98c4fdf0f655c79ecb57e24186"
+git-tree-sha1 = "5c9b52b5359e6e1b4b42dcfab01c2db0de0604d3"
 julia_version = "1.10.0"
 mpi = "microsoftmpi"
 os = "windows"
 
     [[openPMD_api.download]]
-    sha256 = "9803fba7b590a58e1557e08ace54c5e67b501509faaf008b956ba945576ce4f2"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+    sha256 = "0073eea11a77716998d6b5d0e671e20a7530f4687eb918a146a2fd9661f50c05"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0-mpi+microsoftmpi.tar.gz"
+[[openPMD_api]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c9b52b5359e6e1b4b42dcfab01c2db0de0604d3"
+julia_version = "1.11.0"
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[openPMD_api.download]]
+    sha256 = "0073eea11a77716998d6b5d0e671e20a7530f4687eb918a146a2fd9661f50c05"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2475,7 +2983,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "ad45d5cce32733166a041b66f70916ef634c436da8552a9dbc4a591d962d0e54"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2486,7 +2994,7 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "fc3ad8e4de8f8d22131d399531d056c9817f11e117807d0e0544aa86e9ca9de7"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.0-mpi+microsoftmpi.tar.gz"
 [[openPMD_api]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -2497,4 +3005,4 @@ os = "windows"
 
     [[openPMD_api.download]]
     sha256 = "c952151ba5a6291b169debee3009dc8181122e642c2ede107f4591e6979d32ad"
-    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+0/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/openPMD_api_jll.jl/releases/download/openPMD_api-v0.16.0+1/openPMD_api.v0.16.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0-mpi+microsoftmpi.tar.gz"
